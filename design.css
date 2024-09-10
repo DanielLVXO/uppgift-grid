@@ -1,0 +1,6 @@
+.container{
+    display: grid;
+    background-color: bisque;
+    width: 100vw;
+    height: 100vh;
+}
